@@ -1,0 +1,7 @@
+name: Donny_Horse_Spawner
+main: net.donnycraft.dev.HorsePlugin
+version: ${version}
+commands:
+  horse:
+    description: Spawns a horse
+    usage: "Usage: '/horse' or '/horse name' or '/horse name color' to get a horse"
